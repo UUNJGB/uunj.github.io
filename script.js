@@ -7,4 +7,3 @@ window.addEventListener("scroll", () => {
     header.style.background = "#111122";
   }
 });
-
